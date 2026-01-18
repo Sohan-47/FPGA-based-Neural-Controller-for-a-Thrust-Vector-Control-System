@@ -235,7 +235,7 @@ python SimulationRecord.py
 
 ## Results
 
-[Simulation outputs and video will be added here]
+Simulation output can be viewed by running [SimulationRecord.py]
 
 ## Roadmap
 
